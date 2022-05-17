@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+Allow: /about-us.html
+Allow: /our_specialists.html
+Allow: /bozova_es.html
+Allow: /djabarova_sa.html
+Allow: /igolkina_ia.html
+Allow: /nepomnyachyaya_vd.html
+Allow: /shapoval_vs.html
+Allow: /shishkanova_ag.html
+Allow: /smiryagina_nv.html
+Allow: /consultation.html
+Allow: /contacts.html
+Allow: /vacancy.html
+Allow: /price_list.html
+Allow: /articles.html
+Allow: /examination.html
+Allow: /ovariohysterectomy.html
+Allow: /metastases.html
+Allow: /postingection_sarcoma.html
+Allow: /insurance.html
+Allow: /stocks.html
+
+Disallow: /other_page/
+Disallow: /lib/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /bat/
+Disallow: /payment_success.html
+
+Host: https://zooterra.ru
+Sitemap: https://zooterra.ru/sitemap.xml

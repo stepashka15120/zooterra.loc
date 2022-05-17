@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a2653cb2-2d70-419f-af73-591a1f7d590e" name="zooterra.ru" url="http://37.140.192.43">
+        <fileTransfer rootFolder="/var/www/u1458485/data/www/zooterra.ru/" accessType="SFTP" host="37.140.192.43" port="22" sshConfigId="2dec9150-d956-4783-b061-f71a08d829f6" sshConfig="u1458485@37.140.192.43:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
